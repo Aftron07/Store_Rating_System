@@ -15,7 +15,7 @@ Each role is provided with **tailored functionalities**, ensuring a secure and s
 
 =======
 ---
-
+>>>>>>> f9d6f4176e8b71e4c08933da23d8d19121c7307a
 
 ## 🚀 Tech Stack
 - **Frontend:** React.js (React Router, Hooks, TailwindCSS/Vite)  
@@ -27,6 +27,8 @@ Each role is provided with **tailored functionalities**, ensuring a secure and s
 <<<<<<< HEAD
 
 =======
+---
+>>>>>>> f9d6f4176e8b71e4c08933da23d8d19121c7307a
 
 ## 🔑 Features
 
@@ -47,7 +49,7 @@ Each role is provided with **tailored functionalities**, ensuring a secure and s
 
 =======
 ---
->>>>>>> 
+>>>>>>> f9d6f4176e8b71e4c08933da23d8d19121c7307a
 
 ### 👨‍💻 Normal User
 - Register & log in  
@@ -78,7 +80,7 @@ Each role is provided with **tailored functionalities**, ensuring a secure and s
 
 =======
 ---
->>>>>>> 
+>>>>>>> f9d6f4176e8b71e4c08933da23d8d19121c7307a
 
 ## 🗂️ Project Structure
 
